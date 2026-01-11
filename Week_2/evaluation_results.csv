@@ -1,0 +1,21 @@
+gender,height,weight,systolic_bp,diastolic_bp,cholesterol_level,glucose_level,smoke,alco,active,cardio,age_years,BMI,BP_Status,Cholesterol_Status,Glucose_Status,Identified_Risks,Risk_Score,Expected_Risks,Pattern_Match,Risk_Plausible
+2,170,69.0,120,80,1,2,0,0,1,0,57,23.87543253,Normal,Normal,Above Normal,Low Risk,0,Low Risk,True,True
+2,164,72.0,120,80,1,1,0,0,1,0,50,26.76977989,Normal,Normal,Normal,Low Risk,0,Low Risk,True,True
+1,154,61.0,110,70,1,1,0,0,1,0,60,25.72103221,Normal,Normal,Normal,Low Risk,0,Low Risk,True,True
+1,160,82.0,120,80,1,1,0,0,1,1,63,32.03125,Normal,Normal,Normal,Low Risk,1,Low Risk,True,True
+1,164,75.0,130,100,3,3,0,0,1,0,57,27.88518739,High,High,High,"Hypertension Risk, Diabetes Risk, Cardiovascular Risk",6,"Hypertension Risk, Diabetes Risk, Cardiovascular Risk",True,True
+2,172,70.0,120,80,1,1,1,0,1,0,43,23.66143862,Normal,Normal,Normal,Low Risk,0,Low Risk,True,True
+1,150,91.0,150,90,2,1,0,0,0,1,64,40.44444444,High,Above Normal,Normal,Hypertension Risk,3,Hypertension Risk,True,True
+1,162,62.0,120,80,1,2,0,0,0,0,59,23.62444749,Normal,Normal,Above Normal,Low Risk,0,Low Risk,True,True
+1,170,67.0,120,80,2,1,0,0,1,1,56,23.183391,Normal,Above Normal,Normal,Low Risk,0,Low Risk,True,True
+1,148,45.0,130,80,1,1,0,0,1,0,63,20.54419284,High,Normal,Normal,Hypertension Risk,2,Hypertension Risk,True,True
+1,178,80.0,130,80,1,1,0,0,0,1,55,25.2493372,High,Normal,Normal,Hypertension Risk,2,Hypertension Risk,True,True
+1,145,45.0,90,50,1,1,0,0,0,0,45,21.40309156,Low,Normal,Normal,Low Risk,0,Low Risk,True,True
+2,170,68.0,130,80,1,1,0,0,1,1,60,23.52941176,High,Normal,Normal,Hypertension Risk,2,Hypertension Risk,True,True
+1,152,85.0,100,60,1,1,0,0,1,0,47,36.7901662,Normal,Normal,Normal,Low Risk,1,Low Risk,True,True
+1,159,103.0,140,90,2,1,0,0,1,1,56,40.74205925,High,Above Normal,Normal,Hypertension Risk,3,Hypertension Risk,True,True
+2,168,75.0,120,80,1,1,1,0,1,1,42,26.57312925,Normal,Normal,Normal,Low Risk,0,Low Risk,True,True
+1,162,58.0,110,60,1,1,0,0,1,0,45,22.10028959,Normal,Normal,Normal,Low Risk,0,Low Risk,True,True
+1,167,74.0,120,80,1,1,0,0,0,0,45,26.53375883,Normal,Normal,Normal,Low Risk,0,Low Risk,True,True
+1,156,72.0,130,90,3,1,0,0,1,1,54,29.58579882,High,High,Normal,"Hypertension Risk, Cardiovascular Risk",4,"Hypertension Risk, Cardiovascular Risk",True,True
+2,172,98.0,120,80,1,1,0,0,0,1,52,33.12601406,Normal,Normal,Normal,Low Risk,1,Low Risk,True,True
